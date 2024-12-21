@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🚀 Welcome to My Digital Universe 🌌
+# 🌐 Navigating the Digital Frontier
 
-[![Views](https://komarev.com/ghpvc/?username=vehanrajintha&color=blueviolet)](https://github.com/vehanrajintha)
+<marquee>Kaveesha</marquee>
+
+[![Views](https://komarev.com/ghpvc/?username=kaveeneth&color=blueviolet)](https://github.com/kaveeneth)
 [![Repo Size](https://img.shields.io/badge/Repo%20Size-31%20KB-brightgreen)](#)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue)](#)
 
@@ -30,10 +32,10 @@
 ## 🎯 About Me
 
 - 🧬 Building the future, one commit at a time
-- 🎓 Computer Systems & Network Engineering student at SLIIT
-- 🔗 Active member of KCD, GDG & AICSL
-- 💻 Specializing in web development, Linux tools & server operations
-- 🌱 Currently exploring the depths of computer systems and networking
+- 🎓 Information Technology student at Moratuwa University.
+- 🔗 Active member of 
+- 💻 Specializing in web development, software building and graphic designing.
+- 🌱 Currently exploring the depths of computer systems and Artificial Intelligence.
 
 ## 📊 GitHub Analytics
 
@@ -52,7 +54,7 @@ const githubStats = {
 
 <div align="center">
 
-| 🌈 Language Expert | ⭐ Star Gazer | 💻 Code Architect | 🔄 Active Contributor |
+|  Language Expert | ⭐ Star Gazer | 💻 Code Architect | 🔄 Active Contributor |
 |-------------------|---------------|-------------------|---------------------|
 | Rainbow Lang User | 376+ Stars    | Ultra Committer  | High Repo Creator  |
 
@@ -65,8 +67,8 @@ const githubStats = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vehanrajintha/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:IT23646360@my.sliit.lk)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaveeshanethmal456/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaveeshanethmal.124@gmail.com)
 
 </div>
 
