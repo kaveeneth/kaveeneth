@@ -2,7 +2,7 @@
 
 # 🌐 Navigating the Digital Frontier
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?weight=800&pause=1000&color=0035F7&center=true&width=435&lines=Kaveesha+Nethmal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&size=25&pause=1000&color=0035F7&center=true&width=435&lines=Hey!+I'm+Kaveesha+Nethmal...;Keep+an+eye+on+my+work+and+follow+me+for+new+projects+!)](https://git.io/typing-svg)
 
 
 [![Views](https://komarev.com/ghpvc/?username=kaveeneth&color=blueviolet)](https://github.com/kaveeneth)
