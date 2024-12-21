@@ -2,7 +2,7 @@
 
 # 🌐 Navigating the Digital Frontier
 
-<marquee>Kaveesha</marquee>
+<div align="center" color="blue">Kaveesha Nethmal</div>
 
 [![Views](https://komarev.com/ghpvc/?username=kaveeneth&color=blueviolet)](https://github.com/kaveeneth)
 [![Repo Size](https://img.shields.io/badge/Repo%20Size-31%20KB-brightgreen)](#)
