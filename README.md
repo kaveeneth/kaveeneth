@@ -2,9 +2,7 @@
 
 # 🌐 Navigating the Digital Frontier
 
-<div style="text-align: center; color: blue; font-size: 36px; font-family: 'monospace', sans-serif; font-weight: bold;">
-  Kaveesha Nethmal
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?weight=800&pause=1000&color=0035F7&center=true&width=435&lines=Kaveesha+Nethmal)](https://git.io/typing-svg)
 
 
 [![Views](https://komarev.com/ghpvc/?username=kaveeneth&color=blueviolet)](https://github.com/kaveeneth)
