@@ -9,6 +9,12 @@
 [![Repo Size](https://img.shields.io/badge/Repo%20Size-31%20KB-brightgreen)](#)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue)](#)
 
+<div align="center">
+
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=kaveeneth&repo=matrix&theme=radical)](https://github.com/kaveeneth/matrix)
+
+</div>
+
 ## ⚡ Tech Artisan & Digital Explorer ⚡
 
 </div>
